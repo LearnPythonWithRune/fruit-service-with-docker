@@ -1,2 +1,2 @@
 # FruitServiceWithDocker
-Fruit Service a small REST API for demonstration purposes.
+Fruit Service is a small REST API for demonstration purposes.
