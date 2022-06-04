@@ -22,3 +22,4 @@ response = requests.post(
 )
 
 print(f'Status code: {response.status_code}, order: {order}')
+print(response.json())
